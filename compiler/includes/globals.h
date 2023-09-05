@@ -1,0 +1,9 @@
+#ifndef GLOBALS
+#define GLOBALS
+
+#define INITIAL_LIST_SIZE 100
+#define MAX_IDENTIFIER_LENGTH 101
+#define MAX_INTEGER_LENGTH 21
+
+
+#endif
